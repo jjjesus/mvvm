@@ -9,9 +9,11 @@ This simulates a system where a GUI View is updated when a Model object is modif
 
 The MVVM classes are:
 
-Model - Foo
-View Model - FooViewModel
-View - FooView
+    Model      - Foo
+
+    View Model - FooViewModel
+
+    View       - FooView
 
 The simulator that updates the Foo model is named DataUpdater.
 
